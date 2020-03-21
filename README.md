@@ -32,6 +32,10 @@ Alternatively, you could use `react-firebase-hooks`, `firebase`, and a couple of
 
 ## Misc.
 - [Authentication in React Applications](https://kentcdodds.com/blog/authentication-in-react-applications)
+- [Firestore Data Modeling - Five Cool Techniques](https://www.youtube.com/watch?v=35RlydUf6xo)
+- [Role Based Authorization With Firestore](https://fireship.io/lessons/role-based-authorization-with-firestore-nosql-and-angular-5/)
+- [Model Relational Data in Firestore NoSQL](https://www.youtube.com/watch?v=jm66TSlVtcc)
+- [How to Connect Firebase Users to their Data - 3 Methods](https://www.youtube.com/watch?v=2ciHixbc4HE)
 
 ## Tips
 1. Import Firebase this way:
