@@ -30,6 +30,9 @@ Alternatively, you could use `react-firebase-hooks`, `firebase`, and a couple of
 - [Can Cloud Functions for Firebase execute on user login?](https://stackoverflow.com/questions/46452921/can-cloud-functions-for-firebase-execute-on-user-login)
 - [Firebase Authentication triggers](https://firebase.google.com/docs/functions/auth-events)
 
+## Misc.
+- [Authentication in React Applications](https://kentcdodds.com/blog/authentication-in-react-applications)
+
 ## Tips
 1. Import Firebase this way:
 ```js
