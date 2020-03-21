@@ -24,6 +24,12 @@ Probably the best option if you want to avoid adding the huge Firebase dependenc
 - [SWR by Zeit](https://swr.now.sh/)
 - [React Query by Tanner Linsley](https://github.com/tannerlinsley/react-query#usemutation)
 
+## Cloud Functions
+Alternatively, you could use `react-firebase-hooks`, `firebase`, and a couple of Firebase Cloud Functions. Here are some links about them.
+
+- [Can Cloud Functions for Firebase execute on user login?](https://stackoverflow.com/questions/46452921/can-cloud-functions-for-firebase-execute-on-user-login)
+- [Firebase Authentication triggers](https://firebase.google.com/docs/functions/auth-events)
+
 ## Tips
 1. Import Firebase this way:
 ```js
