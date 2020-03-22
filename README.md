@@ -23,6 +23,7 @@ Probably the best option if you want to avoid adding the huge Firebase dependenc
 
 - [SWR by Zeit](https://swr.now.sh/)
 - [React Query by Tanner Linsley](https://github.com/tannerlinsley/react-query#usemutation)
+- [Google Firestore REST API examples](https://www.jeansnyman.com/posts/google-firestore-rest-api-examples/)
 
 ## Cloud Functions
 Alternatively, you could use `react-firebase-hooks`, `firebase`, and a couple of Firebase Cloud Functions. Here are some links about them.
